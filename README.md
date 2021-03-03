@@ -1,2 +1,13 @@
-# comparing-baltimore-sussex-county-teen-birth-economic-outcomes
-Investigation of how teen birth rate correlates with poverty
+# Investigating how teen birth rate contributes to poverty rate 
+
+## Background
+Contraceptive measures have several health [benefits](https://www.healthline.com/health/birth-control-benefits) including regulation of menstrual cycle, reducing cancer rate, and reducing frequency of ovarian cysts, with minimal side effects. A recent [suggests](https://www.elle.com/culture/career-politics/news/a44005/women-cant-pay-more-than-10-for-birth-control/) that at least 33% of women are unable to pay for contraceptives, depending on the method chosen. While the Affordable Care Act has [routes](https://www.healthcare.gov/coverage/birth-control-benefits/) for individuals to obtain contraception, the Supreme Court recently upheld an [appeal](https://khn.org/news/high-court-allows-employers-to-opt-out-of-acas-mandate-on-birth-control-coverage/) that employers may deny contraceptive provisions to employees due to conflict with the religious beliefs of the employer. Further, despite the increased control and benefits given to women, [political feuds](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5678404/) continue to exist regarding government-funded contraception in addition to other healthcare provisions. The primary focus for opposition is [excessive spending](https://www.forbes.com/sites/jeffreydorfman/2014/01/23/why-some-people-oppose-expanding-government-aid-to-the-poor/?sh=6887b9442b85).
+
+This analysis seeks to investigate the connection between teenage birth rate and poverty rate by comparing Baltimore, MD and Sussex County, DE. The population of Baltimore is approximately [593,000](https://www.census.gov/quickfacts/fact/table/baltimorecitymarylandcounty/AGE295219) and primarily politically [Democratic](https://www.bestplaces.net/voting/city/maryland/baltimore). The population of Sussex County is approximately [234,000](https://www.census.gov/quickfacts/sussexcountydelaware) and leans more [Republican](https://www.bestplaces.net/voting/city/delaware/lewes). As noted above, Republican voters tend to be against government-funded contraceptives and certain degrees of financial support with respect to food stamps, welfare, and Medicaid. Another goal of this analysis is to speculate on whether government spending could be reduced long-term if contraceptive provisions are provided.
+
+## Business Question
+__Can increasing access to affordable or government-funded contraception reduce the rate of poverty in Baltimore, MD?__
+
+## Data Question - Analysis
+Microsoft Excel was used to answer the following:
+1. __What factors are correlated with poverty rate in Baltimore, MD and Sussex County, DE?__ Key community metrics including median rent, teen birth rate, frequency of single parents, and percent married were compared between the municipalities using single and multiple linear regression analysis.

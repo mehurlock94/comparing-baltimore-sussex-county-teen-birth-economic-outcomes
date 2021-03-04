@@ -1,0 +1,458 @@
+﻿tract,Name,Fraction_Single_Parents_in_2012-16
+24510110100,"Downtown, Baltimore, MD",1
+24510150100,"Sandtown-Winchester, Baltimore, MD",1
+24510080700,"Broadway East, Baltimore, MD",1
+24510090900,"Oliver, Baltimore, MD",1
+24510250301,"Westport, Baltimore, MD",1
+24510180100,"Poppleton, Baltimore, MD",0.983
+24510140200,"Upton, Baltimore, MD",0.9808
+24510090700,"Coldstream - Homestead - Montebello, Baltimore, MD",0.9779
+24510100200,"Baltimore, MD",0.9776
+24510190100,"Franklin Square, Baltimore, MD",0.9745
+24510080800,"Broadway East, Baltimore, MD",0.9701
+24510090800,"East Baltimore Midway, Baltimore, MD",0.9563
+24510271802,"Langston Hughes, Baltimore, MD",0.9518
+24510170300,"Upton, Baltimore, MD",0.9407
+24510080600,"Broadway East, Baltimore, MD",0.9385
+24510170100,"Downtown, Baltimore, MD",0.9333
+24510080301,"Berea, Baltimore, MD",0.9328
+24510270702,"Harford - Echodale - Perring Parkway, Baltimore, MD",0.9279
+24510250204,"Cherry Hill, Baltimore, MD",0.9276
+24510200300,"Bentalou-Smallwood, Baltimore, MD",0.9238
+24510030100,"Perkins Homes, Baltimore, MD",0.9212
+24510120600,"Old Goucher, Baltimore, MD",0.913
+24510280500,"Pleasant View Gardens, Baltimore, MD",0.9087
+24510160400,"Midtown Edmondson, Baltimore, MD",0.9078
+24510280404,"Irvington, Baltimore, MD",0.9044
+24510170200,"McCulloh Homes, Baltimore, MD",0.8993
+24510150702,"Walbrook, Baltimore, MD",0.896
+24510260302,"Belair - Edison, Baltimore, MD",0.8906
+24510160600,"Mosher, Baltimore, MD",0.88
+24510070200,"Madison - Eastend, Baltimore, MD",0.8785
+24510250101,"Beechfield, Baltimore, MD",0.874
+24510271002,"Winston - Govans, Baltimore, MD",0.8706
+24510150500,"Burleith-Leighton, Baltimore, MD",0.8687
+24510260303,"Claremont - Freedom, Baltimore, MD",0.8676
+24510280302,"West Forest Park, Baltimore, MD",0.8635
+24510200702,"Saint Joseph's, Baltimore, MD",0.8592
+24510260301,"Belair - Edison, Baltimore, MD",0.8592
+24510271001,"Baltimore, MD",0.8591
+24510130200,"Reservoir Hill, Baltimore, MD",0.8571
+24510160100,"Harlem Park, Baltimore, MD",0.8562
+24510260604,"O'Donnell Heights, Baltimore, MD",0.856
+24510150600,"NW Community Action, Baltimore, MD",0.8549
+24510160300,"Sandtown-Winchester, Baltimore, MD",0.8523
+24510090600,"Coldstream - Homestead - Montebello, Baltimore, MD",0.8514
+24510070100,"Baltimore, MD",0.8487
+24510180300,"Hollins Market, Baltimore, MD",0.8478
+24510250102,"Yale Heights, Baltimore, MD",0.8458
+24510080500,"Darley Park, Baltimore, MD",0.8414
+24510160200,"Sandtown-Winchester, Baltimore, MD",0.8379
+24510271801,"Arlington, Baltimore, MD",0.8325
+24510150701,"Hanlon Longwood, Baltimore, MD",0.8218
+24510150800,"Garwyn Oaks, Baltimore, MD",0.8172
+24510200400,"Shipley Hill, Baltimore, MD",0.8133
+24510151000,"Dorchester, Baltimore, MD",0.8067
+24003751103,"Glen Burnie, MD",0.8065
+24510070400,"Gay Street, Baltimore, MD",0.8062
+24510280301,"Gwynn Oak, Baltimore, MD",0.7962
+24510150400,"Mondawmin, Baltimore, MD",0.7949
+24510260403,"Cedonia, Baltimore, MD",0.7906
+24510090400,"Better Waverly, Baltimore, MD",0.7879
+24510060100,"Patterson Park, Baltimore, MD",0.7868
+24005430300,"Lansdowne - Baltimore Highlands, Halethorpe, MD",0.7825
+24510151100,"East Arlington, Baltimore, MD",0.7823
+24510270701,"Harford - Echodale - Perring Parkway, Baltimore, MD",0.7784
+24510210200,"Pigtown, Baltimore, MD",0.7772
+24510151300,"Central Park Heights, Baltimore, MD",0.7681
+24510080400,"Broadway East, Baltimore, MD",0.7653
+24510160802,"Edmondson, Baltimore, MD",0.7593
+24510200800,"Irvington, Baltimore, MD",0.7584
+24510271600,"Edgecomb, Baltimore, MD",0.7578
+24510120500,"Greenmount West, Baltimore, MD",0.7571
+24510270902,"Perring Loch, Baltimore, MD",0.7566
+24510140300,"Druid Heights, Baltimore, MD",0.7492
+24005402307,"Pikesville, MD",0.746
+24510210100,"Pigtown, Baltimore, MD",0.7459
+24005402303,"Windsor Mill, Baltimore, MD",0.7444
+24510120400,"Barclay, Baltimore, MD",0.7442
+24005491401,"Parkville, MD",0.7436
+24510200701,"Allendale, Baltimore, MD",0.7434
+24510190200,"Pratt Monroe, Baltimore, MD",0.7368
+24510160801,"Edmondson, Baltimore, MD",0.7324
+24510151200,"Park Circle, Baltimore, MD",0.7308
+24510100100,"Johnson Square, Baltimore, MD",0.719
+24510160700,"Rosemont, Baltimore, MD",0.7147
+24510130100,"Reservoir Hill, Baltimore, MD",0.7129
+24510270401,"Glenham-Belford, Baltimore, MD",0.7127
+24005450504,"Essex, MD",0.7126
+24005403402,"Pikesville, MD",0.7123
+24510080102,"Belair - Edison, Baltimore, MD",0.712
+24005402404,"Gwynn Oak, Lochearn, MD",0.7116
+24005403100,"Gwynn Oak, Pikesville, MD",0.7021
+24510260404,"Baltimore Highlands, Baltimore, MD",0.7014
+24510270903,"Hillen, Baltimore, MD",0.6979
+24510160500,"Bridgeview-Greenlawn, Baltimore, MD",0.6931
+24510270805,"Mid-Govans, Baltimore, MD",0.6919
+24510130300,"Penn North, Baltimore, MD",0.6915
+24005420301,"Dundalk, MD",0.6887
+24510250401,"Brooklyn, Baltimore, MD",0.6885
+24510080302,"Berea, Baltimore, MD",0.6864
+24510250203,"Cherry Hill, Baltimore, MD",0.6789
+24510260402,"Frankford, Baltimore, MD",0.6741
+24510180200,"Poppleton, Baltimore, MD",0.6667
+24510200100,"Lexington, Baltimore, MD",0.6634
+24510250207,"Cherry Hill, Baltimore, MD",0.6622
+24510260203,"Frankford, Baltimore, MD",0.6594
+24005402503,"Randallstown, MD",0.6531
+24510150200,"Sandtown-Winchester, Baltimore, MD",0.6512
+24510250500,"Curtis Bay, Baltimore, MD",0.651
+24510080101,"Belair - Edison, Baltimore, MD",0.651
+24510190300,"Mount Clare, Baltimore, MD",0.6447
+24510130400,"Woodbrook, Baltimore, MD",0.6441
+24510060300,"Butchers Hill, Baltimore, MD",0.6423
+24510090500,"Better Waverly, Baltimore, MD",0.6359
+24510130804,"Hampden, Baltimore, MD",0.6349
+24005402406,"Windsor Mill, Milford Mill, MD",0.6336
+24510250402,"Brooklyn, Baltimore, MD",0.6293
+24510270802,"Ramblewood, Baltimore, MD",0.625
+24005402306,"Windsor Mill, Baltimore, MD",0.6199
+24005421200,"Dundalk, MD",0.6096
+24510260101,"Cedmont, Baltimore, MD",0.6054
+24005451802,"Middle River, MD",0.6051
+24510080200,"Broadway East, Baltimore, MD",0.6047
+24005420800,"Dundalk, MD",0.6045
+24510270801,"Idlewood, Baltimore, MD",0.6012
+24510280101,"Reisterstown Station, Baltimore, MD",0.6008
+24510120300,"Harwood, Baltimore, MD",0.6007
+24510200600,"Baltimore, MD",0.5986
+24510250205,"Lakeland, Baltimore, MD",0.596
+24005401302,"Gwynn Oak, Baltimore, MD",0.5942
+24005421300,"Dundalk, MD",0.594
+24005421102,"Dundalk, MD",0.5915
+24510280102,"Gwynn Oak, Baltimore, MD",0.5901
+24510280403,"Westgate, Baltimore, MD",0.5898
+24003750201,"Brooklyn, Baltimore, MD",0.585
+24510270101,"Arcadia, Baltimore, MD",0.5833
+24005420600,"Baltimore, MD",0.5825
+24510280200,"Gwynn Oak, Baltimore, MD",0.5811
+24005450800,"Essex, MD",0.5805
+24005440701,"Rosedale, MD",0.5801
+24510272007,"Fallstaff, Baltimore, MD",0.5746
+24005402602,"Randallstown, MD",0.5737
+24005451500,"Middle River, MD",0.5702
+24510230100,"Baltimore, MD",0.569
+24510030200,"Little Italy, Baltimore, MD",0.5635
+24510260202,"Parkside, Baltimore, MD",0.5634
+24005421000,"Dundalk, MD",0.5625
+24510260201,"Frankford, Baltimore, MD",0.5615
+24510130805,"Cold Springs, Baltimore, MD",0.5577
+24510260102,"Frankford, Baltimore, MD",0.557
+24510150300,"Coppin Heights, Baltimore, MD",0.5556
+24005430200,"Lansdowne - Baltimore Highlands, Lansdowne, MD",0.5534
+24005420900,"Dundalk, MD",0.5525
+24005400701,"Catonsville, MD",0.5438
+24005492001,"Parkville, MD",0.5433
+24510070300,"Milton - Montford, Baltimore, MD",0.5408
+24510280402,"Rognel Heights, Baltimore, MD",0.5242
+24510130806,"Woodberry, Baltimore, MD",0.5222
+24510220100,"Baltimore, MD",0.5195
+24005491402,"Parkville, MD",0.5193
+24005400200,"Catonsville, MD",0.5183
+24510260401,"Armistead Gardens, Baltimore, MD",0.5133
+24005420302,"Dundalk, MD",0.5098
+24510060400,"Baltimore, MD",0.5
+24005451401,"Middle River, MD",0.4986
+24510150900,"Windsor Hills, Baltimore, MD",0.4961
+24510271700,"Central Park Heights, Baltimore, MD",0.4906
+24005450200,"Essex, MD",0.4887
+24510270803,"Loch Raven, Baltimore, MD",0.4886
+24510250303,"Morrell Park, Baltimore, MD",0.4848
+24005430101,"Lansdowne - Baltimore Highlands, Lansdowne, MD",0.4822
+24005402304,"Gwynn Oak, Baltimore, MD",0.4821
+24510020200,"Upper Fells Point, Baltimore, MD",0.4779
+24510200500,"Mill Hill, Baltimore, MD",0.4745
+24005420701,"Dundalk, MD",0.4729
+24510090100,"Ednor Gardens - Lakeside, Baltimore, MD",0.4728
+24510270102,"Waltherson, Baltimore, MD",0.4638
+24005401200,"Woodlawn, MD",0.462
+24510270804,"Lake Walker, Baltimore, MD",0.4545
+24005401301,"Woodlawn, MD",0.4537
+24005430900,"Baltimore, MD",0.453
+24510270901,"New Northwood, Baltimore, MD",0.4504
+24005450503,"Essex, MD",0.4491
+24005402506,"Randallstown, MD",0.4491
+24510260501,"Joseph Lee, Baltimore, MD",0.447
+24005402405,"Gwynn Oak, Baltimore, MD",0.4455
+24510200200,"Lexington, Baltimore, MD",0.4455
+24510090200,"Ednor Gardens - Lakeside, Baltimore, MD",0.4453
+24510270502,"North Harford Road, Baltimore, MD",0.4444
+24005411407,"Parkville, MD",0.4407
+24510260700,"Fifteenth Street, Baltimore, MD",0.44
+24005490602,"Baltimore, MD",0.4399
+24510271900,"Glen, Baltimore, MD",0.4394
+24003750102,"Baltimore, MD",0.4365
+24510260605,"Medford - Broening, Baltimore, MD",0.4363
+24005402302,"Windsor Mill, Milford Mill, MD",0.4334
+24510250103,"Violetville, Baltimore, MD",0.4322
+24025301401,"Harford County, MD",0.4316
+24005402403,"Gwynn Oak, Baltimore, MD",0.4315
+24005440800,"Rosedale, MD",0.4306
+24003751102,"Glen Burnie, MD",0.429
+24005441101,"Rosedale, MD",0.427
+24005452500,"Dundalk, MD",0.4256
+24005403300,"Lochearn, Pikesville, MD",0.4255
+24005420401,"Dundalk, MD",0.4232
+24510020100,"Upper Fells Point, Baltimore, MD",0.4222
+24005450501,"Essex, MD",0.419
+24005420702,"Dundalk, MD",0.4133
+24005491500,"Parkville, MD",0.4116
+24005401102,"Gwynn Oak, Woodlawn, MD",0.411
+24510060200,"Baltimore, MD",0.4084
+24005440300,"Nottingham, MD",0.4049
+24005492300,"Essex, MD",0.4017
+24510272003,"Baltimore, MD",0.401
+24510130803,"Medfield, Baltimore, MD",0.3986
+24005402509,"Owings Mills, MD",0.3954
+24005452300,"Baltimore, MD",0.3953
+24510272006,"Glen, Baltimore, MD",0.3905
+24005450400,"Essex, MD",0.3892
+24005403201,"Gwynn Oak, Lochearn, MD",0.3874
+24005403202,"Gwynn Oak, Baltimore, MD",0.3864
+24005451803,"Middle River, MD",0.3846
+24005403701,"Owings Mills, MD",0.3844
+24005430800,"Halethorpe, MD",0.3835
+24005492002,"Parkville, MD",0.3819
+24510260800,"Baltimore Highlands, Baltimore, MD",0.3812
+24005430104,"Lansdowne - Baltimore Highlands, Halethorpe, MD",0.381
+24005440900,"Rosedale, MD",0.3803
+24005451600,"Middle River, MD",0.3717
+24005402305,"Lochearn, Pikesville, MD",0.3709
+24005403702,"Pikesville, MD",0.3706
+24510270600,"Harford - Echodale - Perring Parkway, Baltimore, MD",0.3703
+24003750803,"Glen Burnie, MD",0.3676
+24005401506,"Windsor Mill, Baltimore, MD",0.3643
+24005400800,"Catonsville, MD",0.364
+24510271101,"Radnor - Winston, Baltimore, MD",0.363
+24005451300,"Middle River, MD",0.3622
+24005420200,"Dundalk, MD",0.3617
+24003750101,"Brooklyn Park, MD",0.3599
+24005441000,"Baltimore, MD",0.3547
+24005452100,"Sparrows Point, MD",0.3546
+24005402407,"Windsor Mill, Milford Mill, MD",0.3542
+24510280401,"Baltimore, MD",0.3487
+24005440200,"Nottingham, MD",0.3477
+24005440100,"Baltimore, MD",0.344
+24005450300,"Essex, MD",0.3422
+24027601107,"Waterloo, Elkridge, MD",0.3394
+24005440702,"Rosedale, MD",0.339
+24025306500,"Aberdeen Proving Ground, MD",0.3359
+24027601201,"Elkridge, MD",0.3336
+24510270200,"Lauraville, Baltimore, MD",0.3333
+24005451402,"Middle River, MD",0.3257
+24005420303,"Dundalk, MD",0.3252
+24005450900,"Essex, MD",0.325
+24510120700,"Remington, Baltimore, MD",0.3232
+24005401507,"Windsor Mill, Baltimore, MD",0.323
+24005451701,"Middle River, MD",0.3192
+24510010100,"Canton, Baltimore, MD",0.319
+24005420500,"Baltimore, MD",0.3188
+24510270301,"Lauraville, Baltimore, MD",0.3185
+24005420402,"Dundalk, MD",0.3155
+24005491202,"Towson, MD",0.3143
+24510261000,"Patterson Park, Baltimore, MD",0.3138
+24510271503,"Cross Keys, Baltimore, MD",0.3103
+24005401101,"Woodlawn, MD",0.3056
+24005450100,"Rosedale, MD",0.3024
+24510260900,"Baltimore, MD",0.3007
+24005451801,"Middle River, MD",0.3004
+24510090300,"Ednor Gardens - Lakeside, Baltimore, MD",0.2993
+24005402604,"Randallstown, MD",0.2991
+24510010500,"Upper Fells Point, Baltimore, MD",0.2973
+24005421101,"Baltimore, MD",0.2924
+24005411307,"Nottingham, MD",0.2891
+24510020300,"Fells Point, Baltimore, MD",0.2791
+24510120100,"Tuscany - Canterbury, Baltimore, MD",0.2772
+24005492102,"Parkville, MD",0.2769
+24005440600,"Rosedale, MD",0.2727
+24005452000,"Sparrows Point, MD",0.2718
+24005400600,"Catonsville, MD",0.2652
+24005400702,"Baltimore, MD",0.2634
+24005401000,"Catonsville, MD",0.2616
+24027601203,"Elkridge, MD",0.2593
+24003750801,"Glen Burnie, MD",0.2562
+24510270302,"Waltherson, Baltimore, MD",0.2536
+24003750400,"Linthicum Heights, MD",0.25
+24510130600,"Hampden, Baltimore, MD",0.2492
+24005441102,"Rosedale, MD",0.2488
+24005492101,"Parkville, MD",0.2477
+24027601204,"Elkridge, MD",0.2403
+24005451900,"Edgemere, MD",0.2327
+24027602900,"Normandy, Ellicott City, MD",0.2304
+24005440400,"Baltimore, MD",0.2297
+24005451702,"Middle River, MD",0.2293
+24005401400,"Catonsville, MD",0.2275
+24005430600,"Relay, Halethorpe, MD",0.2271
+24005490601,"Baltimore, MD",0.2259
+24005400900,"Catonsville, MD",0.2259
+24005451100,"Essex, MD",0.2259
+24027601108,"Ellicott City, MD",0.2245
+24005403803,"Pikesville, MD",0.2243
+24510271400,"Evergreen, Baltimore, MD",0.2205
+24005491300,"Baltimore, MD",0.2175
+24003750804,"Glen Burnie, MD",0.2134
+24005411308,"Nottingham, MD",0.2128
+24005490800,"Towson, MD",0.2127
+24510250206,"Morrell Park, Baltimore, MD",0.2121
+24005490500,"Towson, MD",0.2051
+24005411306,"Nottingham, MD",0.1971
+24005491100,"Baltimore, MD",0.1909
+24510270402,"Glenham-Belford, Baltimore, MD",0.1881
+24510120201,"Baltimore, MD",0.1846
+24027602600,"Ellicott City, MD",0.1829
+24003730100,"Chestnut Hill Cove, Riviera Beach, MD",0.1823
+24005402202,"Baltimore County, MD",0.1818
+24005401504,"Catonsville, MD",0.1799
+24005403401,"Pikesville, MD",0.1786
+24005430400,"Halethorpe, MD",0.177
+24003751200,"Linthicum Heights, MD",0.1714
+24005451000,"Essex, MD",0.1707
+24003750300,"Linthicum Heights, MD",0.1694
+24027606706,"Kendall Ridge, Columbia, MD",0.1693
+24003750203,"Baltimore, MD",0.1687
+24005430700,"Halethorpe, MD",0.1625
+24510010200,"Patterson Park, Baltimore, MD",0.1587
+24005403602,"Baltimore, MD",0.1572
+24510272004,"Cheswolde, Baltimore, MD",0.1541
+24510270501,"Woodring, Baltimore, MD",0.1463
+24027601105,"Ellicott City, MD",0.1462
+24003750202,"Brooklyn Park, MD",0.1446
+24510271501,"Mount Washington, Baltimore, MD",0.1426
+24005411408,"Nottingham, MD",0.1405
+24510230300,"South Baltimore, Baltimore, MD",0.1364
+24005403601,"Baltimore, MD",0.1335
+24005401503,"Catonsville, MD",0.1276
+24510240100,"Locust Point, Baltimore, MD",0.1271
+24005490603,"Baltimore, MD",0.125
+24510272005,"Cross Country, Baltimore, MD",0.125
+24005440500,"Nottingham, MD",0.1235
+24005400100,"Catonsville, MD",0.1217
+24005402603,"Randallstown, MD",0.1179
+24005452400,"Dundalk, MD",0.1151
+24510261100,"Canton, Baltimore, MD",0.1079
+24005401505,"Catonsville, MD",0.1056
+24005420100,"Dundalk, MD",0.1007
+24027602700,"Taylor Village, Ellicott City, MD",0.1005
+24510271200,"Homeland, Baltimore, MD",0.0989
+24510271300,"Roland Park, Baltimore, MD",0.0979
+24027602800,"Ellicott City, MD",0.0952
+24027601103,"West Elkridge, Elkridge, MD",0.0944
+24510240400,"Riverside Park, Baltimore, MD",0.0868
+24510010300,"Canton, Baltimore, MD",0.0864
+24005400500,"Catonsville, MD",0.086
+24510240200,"Riverside, Baltimore, MD",0.0859
+24005490400,"Towson, MD",0.0838
+24005491000,"Baltimore, MD",0.0814
+24005451200,"Middle River, MD",0.0747
+24027601104,"Ellicott City, MD",0.0732
+24510271102,"Mid-Charles, Baltimore, MD",0.0724
+24510270703,"North Harford Road, Baltimore, MD",0.0707
+24027602100,"Ellicott City, MD",0.0693
+24005400400,"Catonsville, MD",0.067
+24005411302,"White Marsh, MD",0.0507
+24510130700,"Hampden, Baltimore, MD",0.0346
+24005403500,"Pikesville, MD",0.0322
+24510230200,"South Baltimore, Baltimore, MD",0
+24510120202,"Baltimore, MD",0
+24510140100,"Bolton Hill, Baltimore, MD",0
+24510240300,"Riverside, Baltimore, MD",0
+24510040100,"Downtown, Baltimore, MD",0
+24510010400,"Canton, Baltimore, MD",0
+24510040200,"Downtown, Baltimore, MD",0
+24510110200,"Downtown, Baltimore, MD",0
+24005492500,"Baltimore, MD",
+24005490605,"Towson, MD",
+24510250600,"Brooklyn, Baltimore, MD",
+24005980200,"Lansdowne - Baltimore Highlands, Halethorpe, MD",
+24510100300,"Penn - Fallsway, Baltimore, MD",
+24003980000,"Linthicum Heights, MD",
+10005051102,"Rehoboth Beach, DE",0.9091
+24045010200,"Salisbury, MD",0.6726
+10001043000,"Harrington, DE",0.6672
+24011955600,"Federalsburg, MD",0.6109
+10005051303,"Ocean View, DE",0.5825
+10005050705,"Millsboro, DE",0.5789
+10005051802,"Laurel, DE",0.5676
+24047950300,"Ocean City, MD",0.5664
+10005050405,"Seaford, DE",0.5597
+10001042500,"Milford, DE",0.558
+10005051201,"Ocean View, DE",0.5481
+10005051801,"Bethel, DE",0.5391
+10005050704,"Millsboro, DE",0.5213
+10005050200,"Ellendale, DE",0.4801
+10005050403,"Seaford, DE",0.4789
+10005051900,"Delmar, DE",0.4706
+10005050407,"Seaford, DE",0.4688
+10005050401,"Seaford, DE",0.4671
+24047950100,"Ocean City, MD",0.431
+10005050602,"Millsboro, DE",0.4274
+10005051400,"Selbyville, DE",0.4268
+10005050801,"Milton, DE",0.4261
+10005050701,"Millsboro, DE",0.424
+10005050301,"Bridgeville, DE",0.4115
+10005050902,"Lewes, DE",0.4089
+24019970200,"Hurlock, MD",0.4071
+10005050406,"Seaford, DE",0.4046
+10001043202,"Frederica, DE",0.4039
+10005050703,"Millsboro, DE",0.4031
+10001043400,"Milford, DE",0.3915
+10005051500,"Dagsboro, DE",0.3904
+24045010702,"Salisbury, MD",0.375
+24011955301,"Denton, MD",0.3729
+10005051301,"Dagsboro, DE",0.3706
+10005050101,"Milford, DE",0.3688
+34009022000,"Cape May, NJ",0.3617
+24045010603,"Salisbury, MD",0.3564
+10001043100,"Harrington, DE",0.3564
+10005050105,"Lincoln, DE",0.3558
+10005050706,"Long Neck, DE",0.3505
+10005050504,"Georgetown, DE",0.3413
+10005050104,"Milford, DE",0.3373
+24019970100,"Rhodesdale, MD",0.3368
+10005050601,"Millsboro, DE",0.3363
+24045010604,"Pittsville, MD",0.328
+10005050302,"Bridgeville, DE",0.3237
+10005051004,"Lewes, DE",0.3212
+10005050503,"Georgetown, DE",0.3209
+10005050408,"Seaford, DE",0.3141
+10005050501,"Georgetown, DE",0.3125
+10005051302,"Frankford, DE",0.3026
+24011955100,"Greensboro, MD",0.2945
+34009021900,"Cape May, NJ",0.2908
+24011955400,"Denton, MD",0.2878
+10005051701,"Laurel, DE",0.2865
+10005051202,"Bethany Beach, DE",0.2727
+24045010701,"Mardela Springs, MD",0.27
+10001042800,"Felton, DE",0.2572
+10005051005,"Lewes, DE",0.2473
+10005051305,"Selbyville, DE",0.2432
+10005050901,"Lewes, DE",0.2378
+34009021806,"North Cape May, NJ",0.2212
+24047950800,"Showell, MD",0.2197
+10005051203,"Bethany Beach, DE",0.2105
+10005050802,"Harbeson, DE",0.1833
+10005051204,"South Bethany, DE",0.1818
+10005051003,"Rehoboth Beach, DE",0.179
+10005051006,"Lewes, DE",0.1753
+10005051101,"Rehoboth Beach, DE",0.1667
+10005050803,"Lewes, DE",0.1597
+10005051702,"Laurel, DE",0.1515
+34009021600,"Wildwood Crest, NJ",0.15
+10005051306,"Selbyville, DE",0.1471
+10005051103,"Rehoboth Beach, DE",0.1429
+10001042900,"Houston, DE",0.1402
+10005050103,"Milford, DE",0.1006
+10005051007,"Rehoboth Beach, DE",0.0932
+34009021701,"Cape May, NJ",0.0806
+34009021702,"Cape May, NJ",0.0317
+10005051205,"Fenwick Island, DE",0

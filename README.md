@@ -39,6 +39,7 @@ Contrary to Baltimore, the only variable which was significant in predicting pov
 __Are teen mothers more likely to be single parents?__
 ![error](https://github.com/mehurlock94/comparing-baltimore-sussex-county-teen-birth-economic-outcomes/blob/main/teenbirth_singleparent.png)
 R-squared values: Baltimore (0.53), Sussex County (0.11)
+
 ![error](https://github.com/mehurlock94/comparing-baltimore-sussex-county-teen-birth-economic-outcomes/blob/main/Balt_Sussex_plot_linear_regression_values.png)
 
 In comparing teen birth rate to single parent frequency, the correlation is positive for both locations. For Baltimore, both the slope of the line of best fit is 2x that for Sussex County, indicating that for every 1% increase in teen birth rate, single parenthood frequency is expected to increase 2x what is observed for Sussex County. Further, the R-squared values for these data are 0.53 for Baltimore and 0.11 for Sussex County. 0.53 is a moderate relationship while 0.11 is quite weak. This indicates that in addition to the reduced slope for Sussex County, the correlation between teen births and single parenthood frequency is very poor.
